@@ -134,8 +134,5 @@ source ~/.bashrc
 
 
 
-## Kubernetes
-
-
 
 
